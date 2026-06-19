@@ -10,7 +10,7 @@ public class LatihanMandiri3 {
         File berkas = new File(namaFile);
 
         berkas.createNewFile();
-
+ 
         if (berkas.exists())
             System.out.println("Berkas sementara.txt ada");
 
