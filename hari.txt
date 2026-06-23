@@ -5,5 +5,3 @@ Kamis
 Jumat
 Sabtu
 Minggu
-Sabtu
-Minggu
